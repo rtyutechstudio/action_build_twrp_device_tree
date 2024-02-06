@@ -10,7 +10,7 @@ on:
       IMG_URL:
         description: 'IMG_URL'
         required: true
-        default: '23.247.129.24/recovery.img'
+        default: 'http://23.247.129.24/recovery.img'
 
 jobs:
   build:
